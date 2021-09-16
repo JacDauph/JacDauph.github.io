@@ -2,15 +2,17 @@
 
 body {
   background-color: beige;
-  margin-align: center;
 }
 
 h1 {
   color: navy;
+  text-align: center;
 }
 
 p {
-  color: lightblue;
+  color: blue;
+  text-align: center;
+  width: 50%;
 }
 
 table {
