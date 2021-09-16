@@ -1,13 +1,18 @@
 /* THIS IS THE STANDARD STYLE SHEET FOR JACOB DAUPHINAIS WEBSITE */
 
 body {
-  background-color: purple;
+  background-color: beige;
+  margin-align: center;
 }
 
 h1 {
-  color: blue;
+  color: navy;
 }
 
 p {
   color: lightblue;
+}
+
+table {
+  background-color: lightblue;
 }
