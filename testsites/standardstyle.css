@@ -6,12 +6,16 @@ body {
 
 h1 {
   color: navy;
+  margin: left;
+  margin: right;
+  width: 800px;
   text-align: center;
 }
 
 p {
   color: blue;
-  text-align: center;
+  margin: left;
+  margin: right;
   width: 800px;
 }
 
