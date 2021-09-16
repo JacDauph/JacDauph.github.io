@@ -12,6 +12,7 @@ h1 {
 p {
   color: blue;
   text-align: center;
+  width: 800px;
 }
 
 table {
