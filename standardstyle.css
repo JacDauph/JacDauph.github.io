@@ -1,5 +1,9 @@
 /* THIS IS THE STANDARD STYLE SHEET FOR JACOB DAUPHINAIS WEBSITE */
 
+body {
+  background-color: beige;
+}
+
 h1 {
   color: blue;
 }
