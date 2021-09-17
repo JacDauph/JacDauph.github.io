@@ -15,13 +15,22 @@ p {
   width: 800px;
 }
 
+table {
+  background-color: lightblue;
+}
+
 #main-body {
   background-color: lightblue;
+  padding: 10px;
   margin-left: auto;
   margin-right: auto;
   width: 800px;
 }
 
-table {
-  background-color: lightblue;
+#aboutdiv {
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  opacity: 0%;
 }
