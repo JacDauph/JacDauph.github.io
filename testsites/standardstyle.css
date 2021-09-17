@@ -16,9 +16,9 @@ p {
 }
 
 #main-body {
-  background-color: #DAFFFF;
-  margin: left;
-  margin: right;
+  background-color: lightblue;
+  margin-left: auto;
+  margin-right: auto;
   width: 800px;
 }
 
