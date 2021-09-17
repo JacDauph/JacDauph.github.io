@@ -7,13 +7,10 @@ body {
 h1 {
   color: navy;
   text-align: center;
-  font: monospace;
-  font-weight: bold;
 }
 
 p {
   color: blue;
-  font: monospace;
 }
 
 table {
@@ -30,6 +27,7 @@ table {
   margin-right: auto;
   margin-top: 10px;
   width: 800px;
+  font: monospace;
 }
 
 #aboutpage {
@@ -38,6 +36,7 @@ table {
   margin-right: auto;
   margin-top: 10px;
   width: 800px;
+  font: monospace;
 }
 
 
