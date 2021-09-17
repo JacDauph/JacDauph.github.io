@@ -15,8 +15,7 @@ p {
 
 table {
   background-color: lightblue;
-  margin-left: 10px;
-  margin-right: 10px;
+  border-spacing: 10px;
 }
 
 #main-body {
