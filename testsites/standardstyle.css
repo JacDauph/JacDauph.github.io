@@ -2,6 +2,7 @@
 
 body {
   background-color: beige;
+  font-family: monospace;
 }
 
 h1 {
@@ -27,7 +28,6 @@ table {
   margin-right: auto;
   margin-top: 10px;
   width: 800px;
-  font: monospace;
 }
 
 #aboutpage {
@@ -36,7 +36,6 @@ table {
   margin-right: auto;
   margin-top: 10px;
   width: 800px;
-  font: monospace;
 }
 
 
