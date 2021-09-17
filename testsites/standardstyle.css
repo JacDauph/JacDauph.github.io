@@ -25,17 +25,11 @@ table {
   width: 800px;
 }
 
-div.clearbox {
+#aboutpage {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
   width: 800px;
-  opacity: 0%;
-}
-
-div.clearbox p {
-  color: blue;
-  padding: 10px;
 }
 
 
