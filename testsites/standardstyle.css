@@ -23,7 +23,6 @@ table {
 
 .main-body {
   background-color: lightblue;
-  padding: 10px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -31,7 +30,6 @@ table {
 }
 
 #aboutpage {
-  padding: 10px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
