@@ -38,6 +38,11 @@ table {
   width: 800px;
 }
 
+#face {
+  float: left;
+  position: relative;
+  margin-right: 10px;
+}
 
 
 
