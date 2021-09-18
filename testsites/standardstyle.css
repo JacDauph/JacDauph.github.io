@@ -27,6 +27,8 @@ table {
   margin-right: auto;
   margin-top: 10px;
   width: 800px;
+  padding-top:10px;
+  padding-bottom: 10px;
 }
 
 #aboutpage {
@@ -34,6 +36,8 @@ table {
   margin-right: auto;
   margin-top: 10px;
   width: 800px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #face {
