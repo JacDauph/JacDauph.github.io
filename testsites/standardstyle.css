@@ -40,10 +40,20 @@ table {
   padding-bottom: 10px;
 }
 
-#face {
+#face {                         /* Images */
   float: left;
   position: relative;
   margin-right: 10px;
+}
+
+#mylike1 {
+  float: left;
+  padding-left: 100px;
+}
+
+#mylike2 {
+  float: right;
+  padding-right: 100px;
 }
 
 
