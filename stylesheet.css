@@ -1,0 +1,61 @@
+/* THIS IS THE STANDARD STYLE SHEET FOR JACOB DAUPHINAIS WEBSITE */
+
+body {
+  background-color: beige;
+  font-family: monospace;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+p {
+  color: blue;
+}
+
+table {
+  background-color: lightblue;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+.main-body {
+  background-color: lightblue;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 800px;
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+
+#aboutpage {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 800px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#face {                         /* Images */
+  float: left;
+  position: relative;
+  margin-right: 10px;
+}
+
+#mylike1 {
+  float: left;
+  margin-top: 15px;
+  padding-left: 30%;
+  width: 200px;
+}
+
+#mylike2 {
+  float: right;
+  margin-top: 15px;
+  padding-right: 30%;
+  width: 200px;
+}
