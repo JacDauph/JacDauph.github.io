@@ -49,11 +49,13 @@ table {
 #mylike1 {
   float: left;
   padding-left: 100px;
+  width: 200px;
 }
 
 #mylike2 {
   float: right;
   padding-right: 100px;
+  width: 200px;
 }
 
 
