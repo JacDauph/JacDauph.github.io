@@ -59,3 +59,8 @@ table {
   padding-right: 30%;
   width: 200px;
 }
+
+#zoo_image {
+  margin-top: 50px;
+  width: 400px
+}
